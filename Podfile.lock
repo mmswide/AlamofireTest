@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - EGOTableViewPullRefreshAndLoadMore (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireImage (~> 3.1)
+  - EGOTableViewPullRefreshAndLoadMore
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  EGOTableViewPullRefreshAndLoadMore: 118a0824590db042d42e08fcc442b93cebf15e73
+
+PODFILE CHECKSUM: eac6fd7742d5b5fdc93e1f9a819d06f8348331d0
+
+COCOAPODS: 1.0.1
